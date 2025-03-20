@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jean Henrique!
 
-### 🚀 Software Developer na [Benner Sistemas](https://www.benner.com.br/)
+### 🚀 Software Developer at [Benner Sistemas](https://www.benner.com.br/)
 Trabalhando com **C#**, **ASP.NET**, **SQL Server** e outras tecnologias incríveis para criar soluções robustas e escaláveis.
 
 ---
